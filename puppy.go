@@ -8,7 +8,7 @@ import (
 )
 
 func Bark() string {
-    return "Bark"
+    return "Bark!"
 }
 
 func TryAdamsPackage() string {
